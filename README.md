@@ -13,6 +13,7 @@
     <a href="https://twitter.com/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
 </p>
 <p align="center"><a href="https://t.me/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
+    <a href="https://www.tiktok.com/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
 <p/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +23,19 @@
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safloresmo&theme=github_dark" />
 </p>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Samuel FM github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safloresmo&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+</p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count SFM </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{safloresmo}/count.svg" /></p> 
+<br>
+</div>
 
