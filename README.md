@@ -23,16 +23,10 @@
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safloresmo&theme=github_dark" />
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Samuel FM github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safloresmo&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div>
+| ![SFM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&theme=tokyonight) | ![SFM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safloresmo&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyhp&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=SFM's%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=safloresmo&theme=tokyonight_duo&hide_border=true"
-</p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=saffloresmo&theme=tokyonight
 <div align="center">
 <br><p align="centre"><b>Visitors Count SFM </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{safloresmo}/count.svg" /></p> 
