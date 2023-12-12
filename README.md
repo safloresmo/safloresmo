@@ -32,7 +32,7 @@
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=safloresmo&theme=tokyonight_duo&hide_border=true"
 </p>
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=saffloresmo&theme=tokyonight
 <div align="center">
 <br><p align="centre"><b>Visitors Count SFM </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{safloresmo}/count.svg" /></p> 
