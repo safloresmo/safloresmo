@@ -31,9 +31,11 @@ Soy un estudiante de **Mecatrónica** con un fuerte interés en **robótica**, *
 <p/>
 
 ---
+
 <p align="center">
  ¡Explora mis repositorios para ver mis proyectos y trabajos en robótica, domótica y IoT!
 <p/>
+    
 ---
 
 <h3 align="left">Languages and Tools:</h3>
