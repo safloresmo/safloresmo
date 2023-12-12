@@ -35,7 +35,7 @@ Soy un estudiante de **Mecatrónica** con un fuerte interés en **robótica**, *
 
 ---
 
-¡Explora mis repositorios para ver mis proyectos y trabajos en robótica, domótica, IoT y diseño CAD!
+¡Explora mis repositorios para ver mis proyectos y trabajos en robótica, domótica y IoT!
 
 
 
