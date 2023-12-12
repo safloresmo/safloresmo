@@ -13,7 +13,7 @@
     <a href="https://twitter.com/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
 </p>
 <p align="center"><a href="https://t.me/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
-    <a href="https://www.tiktok.com/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
+    <a href="https://www.tiktok.com/@gilga7u7" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
 <p/>
 
 <h3 align="left">Languages and Tools:</h3>
