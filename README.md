@@ -1,5 +1,3 @@
-# Samuel Flores Montes
-
 ## 👋 Hola, soy Samuel
 
 Soy un estudiante de **Mecatrónica** con un fuerte interés en **robótica**, **IoT (Internet de las Cosas)**, **domótica** y **automatización**. A mis 22 años, me he dedicado a integrar sistemas mecánicos, electrónicos y de software, enfocándome en la automatización inteligente y la interconexión de sistemas.
@@ -13,7 +11,7 @@ Soy un estudiante de **Mecatrónica** con un fuerte interés en **robótica**, *
 ### 💻 Habilidades Técnicas
 
 - **Diseño Asistido por Computadora (CAD):** Experiencia en **Inventor** y **AutoCAD** para diseño mecánico y modelado 3D.
-- **Programación de PLCs y Microcontroladores:** Habilidad en controladores lógicos programables, Arduino, Raspberry Pi, Pico, ESP32, PIC16F877A.
+- **Programación de PLCs y Microcontroladores:** Habilidad en controladores lógicos programables.
 - **IoT y Domótica:** Diseño e implementación de soluciones de automatización del hogar y sistemas interconectados.
 - **Diseño de Placas PCB:** Experiencia en el diseño de circuitos impresos para proyectos electrónicos.
 - **Programación CNC y Código G:** Conocimientos en programación de máquinas CNC utilizando código G.
