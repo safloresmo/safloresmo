@@ -25,7 +25,7 @@
 
 | ![SFM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&theme=tokyonight) | ![SFM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safloresmo&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyhp&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=SFM's%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safloresmo&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=SFM's%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count SFM </b></p>  
