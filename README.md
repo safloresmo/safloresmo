@@ -1,51 +1,172 @@
-## 👋 Hola, soy Samuel
-
-Soy un estudiante de **Mecatrónica** con un fuerte interés en **robótica**, **IoT (Internet de las Cosas)**, **domótica** y **automatización**. A mis 22 años, me he dedicado a integrar sistemas mecánicos, electrónicos y de software, enfocándome en la automatización inteligente y la interconexión de sistemas.
-
-### 🤖 Sobre Mí
-
-- 🎓 Estudiante de **Mecatrónica**
-- 🌱 Intereses: **Robótica**, **Automatización**, **Sistemas Embebidos**, **Domótica**, **IoT**
-- 💡 Apasionado por la aplicación de tecnología en la mejora de procesos y calidad de vida
-
-### 💻 Habilidades Técnicas
-
-- **Diseño Asistido por Computadora (CAD):** Experiencia en **Inventor** y **AutoCAD** para diseño mecánico y modelado 3D.
-- **Programación de PLCs y Microcontroladores:** Habilidad en controladores lógicos programables.
-- **IoT y Domótica:** Diseño e implementación de soluciones de automatización del hogar y sistemas interconectados.
-- **Diseño de Placas PCB:** Experiencia en el diseño de circuitos impresos para proyectos electrónicos.
-- **Programación CNC y Código G:** Conocimientos en programación de máquinas CNC utilizando código G.
-
-### 📚 Aprendizaje Continuo
-
-- Dedicación al estudio de **tecnologías emergentes** en robótica, IoT, y automatización.
-- Participación en **proyectos colaborativos** y **comunidades en línea**, compartiendo conocimientos y experiencias en mecatrónica y diseño.
-
-### 📫 Contacto
-<p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/safloresmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/sfm_47/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-    <a href="https://twitter.com/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
-    <a href="https://t.me/gilga7u7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
-<p/>
-
----
-
-<p align="center">
- ¡Explora mis repositorios para ver mis proyectos y trabajos en robótica, domótica y IoT!
-<p/>
-    
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-| ![SFM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&theme=tokyonight) | |
-| --- | --- |
-| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safloresmo&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=safloresmo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=SFM's%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+# 👋 Hola, soy Samuel Flores
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{safloresmo}/count.svg" /></p> 
-<br>
+
+  ## Ingeniero Mecatrónico | Especialista en Robótica & Hardware Libre
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safloresmo)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safloresmo)
+  [![Website](https://img.shields.io/badge/Website-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mictlanteam.com/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@mictlanteam.com)
+
+  **🤖 Fundador de Mictlán Team | Desarrollo de Robots Competitivos | PCB Design | Embedded Systems**
+
+</div>
+
+---
+
+## 🔥 Sobre Mí
+
+Ingeniero Mecatrónico egresado especializado en **robótica competitiva**, **diseño de hardware** y **sistemas embebidos**. Fundador y líder técnico de **[Mictlán Team](https://github.com/MictlanTeam)**, donde diseño y desarrollo robots autónomos desde la concepción mecánica hasta la implementación de firmware.
+
+### 💼 Áreas de Especialización
+
+```
+• Diseño electrónico y fabricación de PCBs (KiCad, EasyEDA)
+• Desarrollo de firmware para microcontroladores (STM32, ESP32, Arduino)
+• Modelado CAD 3D y diseño mecánico (Fusion 360, AutoCAD)
+• Sistemas de control (PID, control de motores, sensórica)
+• Visión artificial y procesamiento de imágenes (OpenCV, TensorFlow Lite)
+• Manufactura digital (Impresión 3D, CNC, soldadura SMD)
+```
+
+---
+
+## 🎓 Educación
+
+**Ingeniería Mecatrónica**
+📍 Nayarit, México | 🎓 Egresado 2024
+
+### Áreas de Conocimiento
+- Diseño de Sistemas Mecatrónicos
+- Programación de Sistemas Embebidos
+- Control Automático y Robótica
+- Diseño Asistido por Computadora (CAD/CAM)
+- Electrónica Digital y Analógica
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Microcontroladores & Plataformas
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![ATtiny](https://img.shields.io/badge/-ATtiny-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+### Lenguajes de Programación
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assembly&logoColor=white)
+
+### Diseño & CAD
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-5588FF?style=flat-square&logo=easyeda&logoColor=white)
+
+### Herramientas de Desarrollo
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
+### Simulación & Análisis
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-1C79B5?style=flat-square&logo=proteus&logoColor=white)
+
+---
+
+## 🏆 Logros Destacados
+
+### Mictlán Team - Equipo de Robótica Competitiva
+**Fundador & Líder Técnico** | 2024 - Presente
+
+- 🤖 **Desarrollo completo de 4 robots competitivos** con diseño mecánico, electrónico y de software propio
+- ⚡ **Diseño de PCBs personalizados** para aplicaciones de control de motores y sensórica
+- 🎯 **Implementación de algoritmos de control** PID, seguimiento de línea y sistemas de visión artificial
+- 📚 **Creación de librería open-source** de componentes para KiCad con más de 50 footprints personalizados
+- 🏁 **Participación en competencias** de robótica a nivel nacional
+
+#### Proyectos Técnicos Principales:
+
+**Cipactli** - Robot Seguidor de Línea
+`STM32 Blue Pill` • `Control PID` • `Sensores IR` • `PCB Custom`
+
+**Itztli** - Robot Minisumo
+`Arduino Nano` • `HC-SR04` • `IMU MPU6050` • `QTR Sensors`
+
+**Ocelotl** - Robot Microsumo
+`ESP32` • `MicroPython` • `Sharp IR` • `Diseño Ultracompacto`
+
+**Mixcoatl** - Minisumo con Visión Artificial
+`Raspberry Pi Zero` • `OpenCV` • `TensorFlow Lite` • `Computer Vision`
+
+---
+
+## 💡 Competencias Técnicas
+
+### Hardware
+- ✅ Diseño esquemático y layout de PCBs multicapa
+- ✅ Selección de componentes y análisis de costos
+- ✅ Soldadura SMD y ensamble de prototipos
+- ✅ Diseño mecánico con tolerancias de manufactura
+- ✅ Integración de sistemas electromecánicos
+
+### Software
+- ✅ Programación de microcontroladores (bare-metal y RTOS)
+- ✅ Desarrollo de drivers para periféricos (I2C, SPI, UART, PWM)
+- ✅ Implementación de algoritmos de control
+- ✅ Procesamiento de señales de sensores
+- ✅ Desarrollo de interfaces de usuario (web y desktop)
+
+### Procesos
+- ✅ Metodología de diseño iterativo
+- ✅ Control de versiones con Git/GitHub
+- ✅ Documentación técnica y diagramas
+- ✅ Gestión de proyectos multidisciplinarios
+- ✅ Open Source Hardware & Software
+
+---
+
+## 🎯 Actualmente
+
+- 🔨 Optimizando algoritmos de control para robots de competencia
+- 📚 Desarrollando documentación técnica y tutoriales de robótica
+- 🌱 Explorando tecnologías de Machine Learning en sistemas embebidos
+- 🤝 Colaborando en proyectos open-source de hardware
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+### Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-safloresmo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safloresmo)
+[![GitHub](https://img.shields.io/badge/GitHub-safloresmo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safloresmo)
+[![Website](https://img.shields.io/badge/Website-mictlanteam.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mictlanteam.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5213111351394)
+
+📧 **Email**: contacto@mictlanteam.com
+📍 **Ubicación**: Nayarit, México
+🌐 **Portfolio**: [www.mictlanteam.com](https://www.mictlanteam.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+**Ingeniero Mecatrónico | Embedded Systems Developer | Robotics Engineer**
+
+*Diseñando el futuro con tecnología y pasión*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=safloresmo.safloresmo)
+
 </div>
