@@ -1,4 +1,4 @@
-# 👋 Hola, soy Samuel Flores
+# 👋 Hola, soy Samuel
 
 <div align="center">
 
