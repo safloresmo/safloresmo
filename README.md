@@ -81,33 +81,6 @@ Ingeniero Mecatrónico egresado especializado en **robótica competitiva**, **di
 
 ---
 
-## 🏆 Logros Destacados
-
-### Mictlán Team - Equipo de Robótica Competitiva
-**Fundador & Líder Técnico** | 2024 - Presente
-
-- 🤖 **Desarrollo completo de 4 robots competitivos** con diseño mecánico, electrónico y de software propio
-- ⚡ **Diseño de PCBs personalizados** para aplicaciones de control de motores y sensórica
-- 🎯 **Implementación de algoritmos de control** PID, seguimiento de línea y sistemas de visión artificial
-- 📚 **Creación de librería open-source** de componentes para KiCad con más de 50 footprints personalizados
-- 🏁 **Participación en competencias** de robótica a nivel nacional
-
-#### Proyectos Técnicos Principales:
-
-**Cipactli** - Robot Seguidor de Línea
-`STM32 Blue Pill` • `Control PID` • `Sensores IR` • `PCB Custom`
-
-**Itztli** - Robot Minisumo
-`Arduino Nano` • `HC-SR04` • `IMU MPU6050` • `QTR Sensors`
-
-**Ocelotl** - Robot Microsumo
-`ESP32` • `MicroPython` • `Sharp IR` • `Diseño Ultracompacto`
-
-**Mixcoatl** - Minisumo con Visión Artificial
-`Raspberry Pi Zero` • `OpenCV` • `TensorFlow Lite` • `Computer Vision`
-
----
-
 ## 💡 Competencias Técnicas
 
 ### Hardware
@@ -151,11 +124,8 @@ Ingeniero Mecatrónico egresado especializado en **robótica competitiva**, **di
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-safloresmo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safloresmo)
 [![GitHub](https://img.shields.io/badge/GitHub-safloresmo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safloresmo)
 [![Website](https://img.shields.io/badge/Website-mictlanteam.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mictlanteam.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5213111351394)
 
-📧 **Email**: contacto@mictlanteam.com
 📍 **Ubicación**: Nayarit, México
-🌐 **Portfolio**: [www.mictlanteam.com](https://www.mictlanteam.com/)
 
 </div>
 
