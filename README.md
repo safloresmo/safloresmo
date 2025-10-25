@@ -16,7 +16,7 @@
 
 ## 🔥 Sobre Mí
 
-Ingeniero Mecatrónico egresado especializado en **robótica competitiva**, **diseño de hardware** y **sistemas embebidos**. Fundador y líder técnico de **[Mictlán Team](https://github.com/MictlanTeam)**, donde diseño y desarrollo robots autónomos desde la concepción mecánica hasta la implementación de firmware.
+Ingeniero Mecatrónico, **diseño de hardware** y **sistemas embebidos**.
 
 ### 💼 Áreas de Especialización
 
