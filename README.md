@@ -7,9 +7,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safloresmo)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safloresmo)
   [![Website](https://img.shields.io/badge/Website-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mictlanteam.com/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@mictlanteam.com)
 
-  **🤖 Fundador de Mictlán Team | Desarrollo de Robots Competitivos | PCB Design | Embedded Systems**
+  **🤖 Fundador de Mictlán Team | PCB Design | Embedded Systems**
 
 </div>
 
