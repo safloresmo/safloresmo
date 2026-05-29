@@ -27,11 +27,6 @@ Ingeniero Mecatrónico, **diseño de hardware** y **sistemas embebidos**.
 
 ---
 
-## 🎓 Educación
-
-**Ingeniería Mecatrónica**
-📍 Nayarit, México | 🎓 Egresado 2024
-
 ### Áreas de Conocimiento
 - Diseño de Sistemas Mecatrónicos
 - Programación de Sistemas Embebidos
