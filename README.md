@@ -1,5 +1,3 @@
-# Samuel Flores
-
 Ingeniero mecatrónico
 
 Electrónica · Diseño de PCB · Firmware · Control · Robótica · Instrumentación · Redes · CAD
