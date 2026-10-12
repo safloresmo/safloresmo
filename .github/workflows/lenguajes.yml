@@ -1,0 +1,26 @@
+# Vuelve a dibujar el indicador de lenguajes del perfil cada lunes.
+name: lenguajes
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 lenguajes.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Guardar si cambió
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "Samuel Flores"
+          git config user.email "153472380+safloresmo@users.noreply.github.com"
+          git commit -am "update languages"
+          git push
