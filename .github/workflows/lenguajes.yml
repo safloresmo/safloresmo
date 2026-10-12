@@ -1,9 +1,9 @@
-# Vuelve a dibujar el indicador de lenguajes del perfil cada lunes.
+# Vuelve a dibujar el indicador de lenguajes del perfil cada seis horas.
 name: lenguajes
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:

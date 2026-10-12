@@ -1,7 +1,8 @@
 """Dibuja `img/lenguajes.svg` con los lenguajes de mis repositorios públicos.
 
 Cada repositorio pesa lo mismo: se promedia el porcentaje de cada lenguaje
-entre todos, para que uno muy grande no tape a los demás. No cuenta los forks.
+entre todos, para que uno muy grande no tape a los demás. No cuenta los forks ni
+el repositorio del perfil.
 """
 
 import json
@@ -31,7 +32,12 @@ def pedir(ruta):
 
 
 def porcentajes():
-    repos = [r["name"] for r in pedir(f"/users/{USUARIO}/repos?per_page=100&type=owner") if not r["fork"]]
+    repos = [
+        r["name"]
+        for r in pedir(f"/users/{USUARIO}/repos?per_page=100&type=owner")
+        # El repositorio del perfil solo tiene este programa: no es un proyecto.
+        if not r["fork"] and r["name"] != USUARIO
+    ]
     total, contados = Counter(), 0
     for repo in repos:
         lenguajes = pedir(f"/repos/{USUARIO}/{repo}/languages")
