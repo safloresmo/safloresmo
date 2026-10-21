@@ -1,7 +1,3 @@
-Ingeniero mecatrónico
-
-Electrónica · Diseño de PCB · Firmware · Control · Robótica · Instrumentación · Redes · CAD
-
 <div align="center">
 
 <img src="img/lenguajes.svg" alt="Lenguajes de mis repositorios">
